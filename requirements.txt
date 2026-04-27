@@ -1,7 +1,8 @@
-streamlit
+streamlit==1.32.0
 langchain
 langchain-openai
 langchain-community
+langchain-core
 faiss-cpu
 openai
 tiktoken
